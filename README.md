@@ -1,0 +1,2 @@
+# QuickBrowser
+ForParents(NotForChilds!)
